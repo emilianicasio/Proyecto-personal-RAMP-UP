@@ -12,7 +12,7 @@ body{
     line-height: 1.2;   
     background-color: #fdfcfb;
     width: 100%;
-    min-height: 100vh;
+   
     background-color: #fcdc91;
 }
 
@@ -85,7 +85,7 @@ ul a{
 }
 
 .svg-main{
-    padding-top: 70px;
+    padding-top: 5px;
 }
 
 
